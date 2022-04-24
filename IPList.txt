@@ -1,0 +1,22 @@
+;CSGO Valve Matchmaking IP List
+;IPs copied from https://github.com/denniskupec/csgo-matchmaking-ip-ranges
+;"addresses or hostname" "title"
+
+;"146.66.156.1" "EU North (Stockholm, Sweden)"
+;"155.133.243.1" "Poland"
+;"146.66.155.1" "EU East (Italy)"
+;"146.66.152.1" "EU West (Luxembourg)"
+;"155.133.246.1" "Spain"
+;"185.25.183.1" "Middle East (Dubai)"
+;"208.78.164.1" "US East (Ashburn, Virginia)"
+;"162.254.199.1" "US South-East (Atlanta, Georgia)"
+;"192.69.96.1" "US West (Seattle, Washington)"
+;"162.254.194.1" "US South-West (California) "
+;"152.111.192.1" "South Africa (Cape Town)"
+;"103.10.125.1" "Australia (Sydney)"
+;"209.197.25.1" "South America"
+;"45.113.191.1" "India"
+"45.121.186.1" "Japan1"
+"45.121.187.1" "Japan2"
+;"155.133.244.1" "Hong Kong"
+;"103.28.54.1" "Singapore"
